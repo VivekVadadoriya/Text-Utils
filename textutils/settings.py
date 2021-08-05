@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-v7olbme7uo+wrz&m7!#_@bfsw67zd3n$&co!@-8=q!hb)a)ieq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['textwala.herokuapp.com']
 
 
 # Application definition
